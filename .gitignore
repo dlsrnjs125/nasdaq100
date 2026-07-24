@@ -4,6 +4,10 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
+node_modules/
+.next/
+out/
+tsconfig.tsbuildinfo
 *.egg-info/
 .pytest_cache/
 # Retrieval index (large binary files)

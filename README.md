@@ -1,111 +1,66 @@
-# Nasdaq-100 편입·편출 관찰 후보 PoC & Prototype
+# Nasdaq Pulse MVP
 
-공개 데이터(Nasdaq API, SEC EDGAR)를 기반으로 Nasdaq-100 편입·편출 **관찰 후보**를 계산하고 Streamlit으로 확인하는 PoC 및 Prototype입니다. 공식 편입·편출 예측이나 투자 추천 서비스가 아닙니다.
+NASDAQ 종목 분석을 시연하기 위한 제한적 MVP입니다. 완성형 금융 서비스, 투자 추천, 목표주가 제시, 편입·편출 예측 서비스가 아닙니다.
 
----
-
-## 주요 기능
-
-- PoC 결과 요약 (PASS / CONDITIONAL_PASS / FAIL)
-- 편입 관찰 후보 Top 10
-- 편출 관찰 후보 Top 10
-- 데이터 품질 및 출처 확인
-- AI 분석 기능 연결 예정 화면
-
----
-
-## 프로젝트 구조
-
-```
-nasdaq100-candidate-poc/
-├── app.py                        # Streamlit 진입점
-├── ui/
-│   ├── data_loader.py            # outputs/ 파일 로더
-│   ├── components.py             # 재사용 UI 컴포넌트
-│   └── pages.py                  # 4개 탭 페이지
-├── src/
-│   ├── pipeline.py               # PoC 파이프라인 오케스트레이터
-│   ├── collectors/               # Nasdaq·SEC·시장 데이터 수집
-│   ├── processing/               # 정규화·자격판정·순위산정
-│   └── validation/               # 품질리포트·재현성검증
-├── data/raw/                     # 수집 스냅숏 (재현성 기준)
-├── data/processed/
-│   └── candidate_universe.csv
-├── outputs/
-│   ├── inclusion_watch_top10.csv
-│   ├── exclusion_watch_top10.csv
-│   ├── data_quality_report.json
-│   └── poc_result.json
-├── tests/
-├── run_poc.py                    # PoC CLI 진입점
-└── requirements.txt
-```
-
----
-
-## 설치 및 실행
+## 실행 방법
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
+npm install
+npm run dev
 ```
 
-기존 PoC 데이터가 이미 있는 경우:
+검증:
 
 ```bash
-streamlit run app.py
+npm run lint
+npm run typecheck
+npm run build
 ```
 
-실제 데이터를 다시 수집하는 경우:
+기존 Python/Streamlit PoC 파일은 레포에 유지되어 있으며, 별도 실행이 필요하면 `streamlit run app.py`를 사용할 수 있습니다.
+
+## 환경 변수
 
 ```bash
-python run_poc.py --refresh
-streamlit run app.py
+MCP_ENABLED=false
+MCP_SERVER_URL=
+MCP_MARKET_TOOL=
+MCP_HISTORY_TOOL=
+MCP_NEWS_TOOL=
+OPENAI_API_KEY=
+OPENAI_MODEL=
 ```
 
-테스트:
+## MCP 연결 위치
 
-```bash
-pytest -q
-```
+- 서버 전용 adapter: `src/lib/mcp-client.ts`
+- provider 선택 및 fallback 전환: `src/lib/providers.ts`
+- 브라우저는 MCP 서버나 비밀키를 직접 호출하지 않고 Next.js Route Handler만 호출합니다.
+- MCP 서버 이름과 tool 이름은 환경 변수로만 관리하며 특정 MCP 서버 구현에 결합하지 않습니다.
 
----
+## Fallback 데이터 주의사항
 
-## 출력 파일
+- fallback 데이터는 실제 최신 시장 데이터가 아닙니다.
+- MCP가 꺼져 있거나 실패하면 local fallback을 사용합니다.
+- fallback 기본 지원 종목은 `IONQ`, `NVDA`, `MSFT`, `AAPL`, `GOOGL`입니다.
+- IONQ는 1D 가격 포인트와 샘플 뉴스 3건으로 기본 화면을 시연할 수 있습니다.
+- 준비되지 않은 기간은 다른 기간 데이터로 대체하지 않고 “해당 기간의 차트 데이터가 없습니다.”를 표시합니다.
 
-| 파일 | 위치 |
-|------|------|
-| 편입 관찰 후보 | `outputs/inclusion_watch_top10.csv` |
-| 편출 관찰 후보 | `outputs/exclusion_watch_top10.csv` |
-| 데이터 품질 리포트 | `outputs/data_quality_report.json` |
-| PoC 결과 | `outputs/poc_result.json` |
+## 지원 기능
 
----
+- 상단 종목 검색
+- 회사명, 티커, 현재가, 등락률, 기준 시각 표시
+- `1D`, `5D`, `1M`, `3M`, `6M`, `YTD`, `1Y` 기간 선택
+- Recharts 가격 라인 차트
+- 관련 뉴스 최대 3건 및 외부 링크
+- 현재 화면 데이터 기반 챗봇
+- OpenAI API 실패 또는 미설정 시 규칙 기반 챗봇 fallback
+- 모바일 세로 배치
 
-## AI 기능 상태
+## 제외 범위
 
-- 현재 AI 모델 **미연결**
-- 공식 문서 요약, 기업 사건 추출, 원문 인용 연결은 **추후 구현 예정**
-- 가짜 AI 결과를 제공하지 않음
-
----
-
-## 실제 데이터 출처
-
-| 데이터 | 출처 | 유형 |
-|--------|------|------|
-| Nasdaq-100 구성 종목 | `api.nasdaq.com/api/quote/list-type/nasdaq100` | 공식 |
-| Nasdaq 상장 기업 | `api.nasdaq.com/api/screener/stocks` | 공식 |
-| SEC CIK 매핑 | `www.sec.gov/files/company_tickers.json` | 공식 |
-| SEC 제출 이력 | `data.sec.gov/submissions/` | 공식 |
-| 시장 데이터 보완 | yfinance | 보조 |
-
----
-
-## 제한 사항
-
-- 공식 Nasdaq 내부 순위(75·100·125위 기준)가 아님
-- 공개 데이터 기반 관찰 후보
-- **투자 추천이 아님**
-- 일부 시장 데이터는 보조 출처에 의존할 수 있음
+- FastAPI, DB, LangGraph, LangChain, Neo4j, RAG
+- 로그인, 알림, 설정, 실제 거래 기능
+- 매수·매도 추천
+- 목표주가 및 미래 가격 예측
+- 데이터에 없는 사실이나 숫자 생성
