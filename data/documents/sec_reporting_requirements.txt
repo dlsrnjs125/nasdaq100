@@ -1,0 +1,126 @@
+DOCUMENT_ID: sec_edgar_reporting_requirements
+TITLE: SEC EDGAR Reporting Requirements and Filing Types for Public Companies
+SOURCE_TYPE: sec_official
+SOURCE_URL: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&type=10-K&dateb=&owner=include&count=40
+PUBLISHED_AT: 2024-01-01
+LANGUAGE: en
+
+=== SECTION: Overview of SEC Reporting ===
+
+The U.S. Securities and Exchange Commission (SEC) requires publicly traded companies to file periodic reports disclosing financial and operational information. These filings are publicly available through the SEC's Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system at https://www.sec.gov/edgar/.
+
+For a company to maintain its listing on the Nasdaq Stock Market and remain eligible for inclusion in the Nasdaq-100 Index, it must remain current with its SEC reporting obligations.
+
+=== SECTION: Annual Report (Form 10-K) ===
+
+The 10-K is the annual report required by the SEC for all publicly traded companies. It provides a comprehensive overview of the company's business and financial condition.
+
+Key filing deadlines:
+- Large Accelerated Filers (public float ≥ $700M): 60 days after fiscal year end
+- Accelerated Filers (public float $75M–$700M): 75 days after fiscal year end
+- Non-Accelerated Filers: 90 days after fiscal year end
+
+A 10-K includes:
+- Business description and risk factors
+- Selected financial data
+- Management's Discussion and Analysis (MD&A)
+- Audited financial statements (balance sheet, income statement, cash flow)
+- Notes to financial statements
+- Corporate governance disclosures
+
+Failure to file a timely 10-K may result in a delisting notice from Nasdaq. Repeated or material failures may lead to delisting from Nasdaq, which would immediately trigger removal from the Nasdaq-100 Index.
+
+=== SECTION: Quarterly Report (Form 10-Q) ===
+
+The 10-Q is filed quarterly for the first three quarters of a company's fiscal year. The fourth quarter is covered by the annual 10-K.
+
+Key elements:
+- Unaudited interim financial statements
+- MD&A for the quarter
+- Disclosures about material changes in risk factors
+- Legal proceedings and other material events
+
+10-Q filing deadlines:
+- Large Accelerated Filers: 40 days after quarter end
+- Accelerated Filers: 40 days after quarter end
+- Non-Accelerated Filers: 45 days after quarter end
+
+=== SECTION: Current Report (Form 8-K) ===
+
+Form 8-K is filed to announce significant events that shareholders should know about promptly. A company must file a Form 8-K within 4 business days of a triggering event.
+
+Triggering events relevant to Nasdaq-100 eligibility include:
+- Item 1.01: Entry into a material definitive agreement (e.g., merger, acquisition)
+- Item 1.02: Termination of a material definitive agreement
+- Item 1.03: Bankruptcy or receivership
+- Item 2.01: Completion of acquisition or disposition of assets
+- Item 4.01: Changes in registrant's certifying accountant
+- Item 5.01: Changes in control of registrant
+- Item 5.02: Departure of directors or principal officers
+
+=== SECTION: SEC EDGAR CIK Number ===
+
+Every company registered with the SEC is assigned a Central Index Key (CIK) — a unique identifier used to track all filings in the EDGAR database.
+
+The CIK number is used to:
+- Access a company's complete filing history: https://data.sec.gov/submissions/CIK{CIK_NUMBER}.json
+- Retrieve XBRL financial data: https://data.sec.gov/api/xbrl/companyfacts/CIK{CIK_NUMBER}.json
+- Monitor SEC filing activity for compliance purposes
+
+For Nasdaq-100 eligibility monitoring, the CIK number allows retrieval of:
+- Most recent filing type and date
+- Historical filing completeness
+- Changes in auditor or control
+- Material corporate events (mergers, acquisitions, divestitures)
+
+=== SECTION: SEC Data Access via EDGAR API ===
+
+The SEC provides a public REST API for programmatic access to EDGAR data:
+
+Company submission history:
+  https://data.sec.gov/submissions/CIK{PADDED_CIK}.json
+
+XBRL company facts (financial data):
+  https://data.sec.gov/api/xbrl/companyfacts/CIK{PADDED_CIK}.json
+
+Company tickers (CIK-to-ticker mapping):
+  https://www.sec.gov/files/company_tickers.json
+
+These endpoints are used by this PoC project to collect SEC data for all 500 companies in the analysis universe.
+
+=== SECTION: Shares Outstanding and Market Capitalization ===
+
+The number of shares outstanding is reported in Form 10-K and 10-Q filings under the XBRL taxonomy element "CommonStockSharesOutstanding." Market capitalization is computed as:
+
+Market Capitalization = Shares Outstanding × Current Market Price
+
+For the Nasdaq-100 eligibility analysis, market capitalization data is sourced from:
+1. SEC EDGAR XBRL filings (primary, official source)
+2. Exchange market data (secondary, supplementary)
+
+A company's market capitalization relative to the current Nasdaq-100 constituents determines its eligibility for inclusion or risk of exclusion from the Index.
+
+=== SECTION: Financial Sector Exclusion and SIC Codes ===
+
+The Nasdaq-100 Index excludes Financial Companies. The SEC assigns Standard Industrial Classification (SIC) codes to all registered companies based on their primary business activity.
+
+SIC code ranges that qualify as "Financial Companies" and are excluded from Nasdaq-100:
+- 6000–6199: Depository Institutions (Banks, Savings Institutions)
+- 6200–6299: Non-Depository Credit Institutions
+- 6300–6399: Security & Commodity Brokers, Dealers, Exchanges & Services
+- 6400–6499: Insurance Carriers
+- 6500–6599: Real Estate
+- 6700–6799: Holding Companies and Investment Offices
+
+Companies whose primary SIC code falls within these ranges are not eligible for inclusion in the Nasdaq-100 Index regardless of market capitalization.
+
+=== SECTION: EDGAR Compliance and Nasdaq Listing ===
+
+Nasdaq Rule 5250(c)(1) requires listed companies to file all required SEC reports on time. A company that is delinquent in its SEC filings may receive a Nasdaq Staff Deficiency Notice.
+
+If a company fails to cure the deficiency within the specified timeframe, Nasdaq may:
+1. Issue a second deficiency notice
+2. Hold a delisting hearing
+3. Delist the security from Nasdaq
+
+Delisting from Nasdaq would immediately result in removal from the Nasdaq-100 Index, as the Index requires exclusive Nasdaq listing for component securities.

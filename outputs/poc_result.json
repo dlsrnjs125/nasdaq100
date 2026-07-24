@@ -1,0 +1,25 @@
+{
+  "run_id": "e82faade-5ef1-48bd-bbd3-c20cbb9d54a6",
+  "snapshot_hash": "f1f8adbbe86395951d289b2cafc914616e244b122e18e581e71adc9b6fb3f02b",
+  "inclusion_candidate_count": 10,
+  "exclusion_candidate_count": 10,
+  "reproducibility_passed": true,
+  "data_completeness_rate": 1.0,
+  "official_source_ratio": 1.0,
+  "overall_result": "PASS",
+  "pass_conditions": {
+    "constituents_ok": true,
+    "universe_ok": true,
+    "market_cap_rate": true,
+    "sec_match_rate": true,
+    "inclusion_ok": true,
+    "exclusion_ok": true,
+    "reproducibility": true,
+    "output_files": true
+  },
+  "limitations": [
+    "공식 Nasdaq 내부 선정 기준(75·100·125위 기준 등)을 완전히 재현하지 않음",
+    "결과는 관찰 후보이며 실제 편입·편출을 예측하지 않음",
+    "시장 데이터는 수집 시점 기준이며 실시간이 아님"
+  ]
+}

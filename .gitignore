@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
+.pytest_cache/
+# Retrieval index (large binary files)
+outputs/retrieval/*.npy
+# Hugging Face model cache (if local)
+.hf_cache/
+# 로컬 다운로드 모델 (대용량, git 제외)
+models/
+!models/**/.gitkeep

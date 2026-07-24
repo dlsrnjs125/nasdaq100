@@ -1,0 +1,4506 @@
+{
+  "collected_at": "2026-07-15T01:24:16.664790+00:00",
+  "count": 500,
+  "data": [
+    {
+      "ticker": "NVDA",
+      "last_price": 211.8,
+      "market_cap": 5125560000000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AAPL",
+      "last_price": 314.86,
+      "market_cap": 4624460910160.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GOOGL",
+      "last_price": 359.51,
+      "market_cap": 4355823160000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GOOG",
+      "last_price": 357.33,
+      "market_cap": 4329410280000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MSFT",
+      "last_price": 384.93,
+      "market_cap": 2859427370611.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AMZN",
+      "last_price": 247.49,
+      "market_cap": 2662277014316.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AVGO",
+      "last_price": 389.11,
+      "market_cap": 1851222030844.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SPCX",
+      "last_price": 136.08,
+      "market_cap": 1781403407557.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "META",
+      "last_price": 661.04,
+      "market_cap": 1677999340876.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TSLA",
+      "last_price": 396.18,
+      "market_cap": 1487942683213.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MU",
+      "last_price": 983.12,
+      "market_cap": 1110328994611.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "WMT",
+      "last_price": 113.7,
+      "market_cap": 904833599924.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AMD",
+      "last_price": 548.13,
+      "market_cap": 893781128255.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ASML",
+      "last_price": 1775.64,
+      "market_cap": 684363022681.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GOOGM",
+      "last_price": 50.46,
+      "market_cap": 611373360000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GOOGN",
+      "last_price": 50.27,
+      "market_cap": 609071320000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "INTC",
+      "last_price": 107.76,
+      "market_cap": 541601760000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AMAT",
+      "last_price": 595.7,
+      "market_cap": 472961632451.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CSCO",
+      "last_price": 117.09,
+      "market_cap": 461502584925.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LRCX",
+      "last_price": 346.1,
+      "market_cap": 432822623100.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "COST",
+      "last_price": 921.75,
+      "market_cap": 408776587587.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PLTR",
+      "last_price": 133.72,
+      "market_cap": 320568557564.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NFLX",
+      "last_price": 73.53,
+      "market_cap": 309620015764.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "KLAC",
+      "last_price": 230.37,
+      "market_cap": 300926620128.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ARM",
+      "last_price": 281.17,
+      "market_cap": 299180415205.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PANW",
+      "last_price": 352.89,
+      "market_cap": 287605350000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TXN",
+      "last_price": 305.55,
+      "market_cap": 278078852290.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SNDK",
+      "last_price": 1757.82,
+      "market_cap": 260315138408.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LIN",
+      "last_price": 522.54,
+      "market_cap": 241726763109.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CRWD",
+      "last_price": 210.73,
+      "market_cap": 214577778074.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TMUS",
+      "last_price": 187.13,
+      "market_cap": 202512968692.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "STX",
+      "last_price": 878.31,
+      "market_cap": 196942565964.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MRVL",
+      "last_price": 222.44,
+      "market_cap": 194805483132.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "WDC",
+      "last_price": 563.32,
+      "market_cap": 194166338035.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AMGN",
+      "last_price": 355.25,
+      "market_cap": 191731364339.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ADI",
+      "last_price": 392.75,
+      "market_cap": 191303434960.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "QCOM",
+      "last_price": 178.1,
+      "market_cap": 187717400000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PEP",
+      "last_price": 135.45,
+      "market_cap": 184874561531.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SHOP",
+      "last_price": 125.68,
+      "market_cap": 162857529622.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "IBKR",
+      "last_price": 95.61,
+      "market_cap": 162188381273.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GILD",
+      "last_price": 130.04,
+      "market_cap": 161453746415.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "APP",
+      "last_price": 448.98,
+      "market_cap": 150830341200.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BKNG",
+      "last_price": 174.85,
+      "market_cap": 135487494535.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ISRG",
+      "last_price": 379.5,
+      "market_cap": 134404798539.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FTNT",
+      "last_price": 166.83,
+      "market_cap": 122227731071.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SBUX",
+      "last_price": 106.17,
+      "market_cap": 121001949000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VRTX",
+      "last_price": 476.31,
+      "market_cap": 120890058171.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PDD",
+      "last_price": 83.91,
+      "market_cap": 119437197126.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SNY",
+      "last_price": 43.18,
+      "market_cap": 105309724011.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CDNS",
+      "last_price": 376.8,
+      "market_cap": 103927468800.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "HOOD",
+      "last_price": 113.45,
+      "market_cap": 102162298717.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "EQIX",
+      "last_price": 1023.54,
+      "market_cap": 100945862798.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ADP",
+      "last_price": 246.44,
+      "market_cap": 99227677064.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "DDOG",
+      "last_price": 270.73,
+      "market_cap": 96369101968.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MNST",
+      "last_price": 98.005,
+      "market_cap": 95849684821.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MAR",
+      "last_price": 363.19,
+      "market_cap": 95769070987.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MELI",
+      "last_price": 1873.88,
+      "market_cap": 95000435406.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CSX",
+      "last_price": 49.92,
+      "market_cap": 92758291692.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CEG",
+      "last_price": 256.43,
+      "market_cap": 92619967855.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ABNB",
+      "last_price": 146.54,
+      "market_cap": 88320379416.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CME",
+      "last_price": 243.61,
+      "market_cap": 88274360523.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ADBE",
+      "last_price": 220.78,
+      "market_cap": 87760050000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CMCSA",
+      "last_price": 23.19,
+      "market_cap": 82876919889.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NTES",
+      "last_price": 128.39,
+      "market_cap": 81929267401.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "DASH",
+      "last_price": 187.79,
+      "market_cap": 81823618804.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SNPS",
+      "last_price": 425.9,
+      "market_cap": 81551044518.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "INTU",
+      "last_price": 282.43,
+      "market_cap": 77255054910.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MDLZ",
+      "last_price": 58.8,
+      "market_cap": 75478606241.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CTAS",
+      "last_price": 184.33,
+      "market_cap": 73757231275.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AEP",
+      "last_price": 134.94,
+      "market_cap": 73421533018.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NXPI",
+      "last_price": 283.87,
+      "market_cap": 71668965196.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ORLY",
+      "last_price": 85.75,
+      "market_cap": 71062318024.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ROST",
+      "last_price": 220.93,
+      "market_cap": 70870163121.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "HON",
+      "last_price": 222.68,
+      "market_cap": 70550938381.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "WBD",
+      "last_price": 27.48,
+      "market_cap": 68896116571.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "REGN",
+      "last_price": 656.12,
+      "market_cap": 68786985676.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BRKRP",
+      "last_price": 441.09,
+      "market_cap": 68362608890.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MPWR",
+      "last_price": 1376.41,
+      "market_cap": 67623023300.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "HONA",
+      "last_price": 207.51,
+      "market_cap": 65768167523.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PCAR",
+      "last_price": 123.94,
+      "market_cap": 65227915222.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LITE",
+      "last_price": 814.8,
+      "market_cap": 63391440000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ALAB",
+      "last_price": 361.78,
+      "market_cap": 62011964171.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BKR",
+      "last_price": 57.775,
+      "market_cap": 57316768969.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TER",
+      "last_price": 353.23,
+      "market_cap": 55295387883.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FANG",
+      "last_price": 190.69,
+      "market_cap": 53643632605.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ARGX",
+      "last_price": 859.43,
+      "market_cap": 53338707834.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FAST",
+      "last_price": 45.74,
+      "market_cap": 52511123690.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "EA",
+      "last_price": 206.65,
+      "market_cap": 51817794169.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MDLN",
+      "last_price": 38.66,
+      "market_cap": 50787184420.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "HBANL",
+      "last_price": 24.93,
+      "market_cap": 50536365534.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "EBAY",
+      "last_price": 112.54,
+      "market_cap": 50081558310.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "XEL",
+      "last_price": 80.17,
+      "market_cap": 50047690625.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NDAQ",
+      "last_price": 88.01,
+      "market_cap": 49773245632.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NBIS",
+      "last_price": 194.09,
+      "market_cap": 49279100473.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FLEX",
+      "last_price": 132.24,
+      "market_cap": 48451354621.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "EXC",
+      "last_price": 46.92,
+      "market_cap": 48008926023.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CCEP",
+      "last_price": 105.5,
+      "market_cap": 47895146682.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ODFL",
+      "last_price": 228.61,
+      "market_cap": 47543629177.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MCHP",
+      "last_price": 87.11,
+      "market_cap": 47301459111.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FER",
+      "last_price": 63.72,
+      "market_cap": 45843847957.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "RKLB",
+      "last_price": 78.81,
+      "market_cap": 45620545705.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BTSGU",
+      "last_price": 230.93,
+      "market_cap": 45558996646.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CBRS",
+      "last_price": 203.81,
+      "market_cap": 45419174060.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AXON",
+      "last_price": 547.26,
+      "market_cap": 44110292659.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CRDO",
+      "last_price": 236.18,
+      "market_cap": 44042349950.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TTWO",
+      "last_price": 237.04,
+      "market_cap": 44010425798.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CRWV",
+      "last_price": 79.94,
+      "market_cap": 43612893459.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ADSK",
+      "last_price": 205.92,
+      "market_cap": 43449120000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "IDXX",
+      "last_price": 540.68,
+      "market_cap": 42650458818.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "COIN",
+      "last_price": 161.5,
+      "market_cap": 42540894911.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "HBANM",
+      "last_price": 20.719,
+      "market_cap": 42000118632.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PYPL",
+      "last_price": 47.37,
+      "market_cap": 41785337203.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "KDP",
+      "last_price": 30.26,
+      "market_cap": 41170529592.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "HBANZ",
+      "last_price": 19.77,
+      "market_cap": 40076371705.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TRI",
+      "last_price": 91.74,
+      "market_cap": 40017488992.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MCHPP",
+      "last_price": 73.59,
+      "market_cap": 39959985948.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "JD",
+      "last_price": 28.84,
+      "market_cap": 39390269911.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "RVMD",
+      "last_price": 184.97,
+      "market_cap": 39323967576.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PAYX",
+      "last_price": 109.52,
+      "market_cap": 39240017287.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "UAL",
+      "last_price": 120.35,
+      "market_cap": 39062087115.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NTRA",
+      "last_price": 272.66,
+      "market_cap": 39049106056.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ALNY",
+      "last_price": 281.26,
+      "market_cap": 37551746282.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BIDU",
+      "last_price": 109.73,
+      "market_cap": 37335924272.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VOD",
+      "last_price": 15.56,
+      "market_cap": 36969017039.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ON",
+      "last_price": 93.73,
+      "market_cap": 36733086092.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "HBAN",
+      "last_price": 17.85,
+      "market_cap": 36184280978.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ACGL",
+      "last_price": 101.53,
+      "market_cap": 35473524870.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "KMB",
+      "last_price": 106.82,
+      "market_cap": 35457868935.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GFS",
+      "last_price": 63.39,
+      "market_cap": 35271289858.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ROP",
+      "last_price": 346.65,
+      "market_cap": 34983002497.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NTRS",
+      "last_price": 186.64,
+      "market_cap": 34537220233.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "WDAY",
+      "last_price": 139.81,
+      "market_cap": 34533070000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SKHY",
+      "last_price": 193.92,
+      "market_cap": 34498368000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ESLT",
+      "last_price": 736.3,
+      "market_cap": 34244527368.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NTAP",
+      "last_price": 174.55,
+      "market_cap": 34197823258.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MSTR",
+      "last_price": 97.58,
+      "market_cap": 34196703350.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ERIC",
+      "last_price": 10.14,
+      "market_cap": 34185506593.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ONC",
+      "last_price": 306.56,
+      "market_cap": 34081509411.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "RYAAY",
+      "last_price": 64.29,
+      "market_cap": 33831570295.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "STLD",
+      "last_price": 233.35,
+      "market_cap": 33652052446.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "STRF",
+      "last_price": 95.06,
+      "market_cap": 33313574712.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "HBANP",
+      "last_price": 16.22,
+      "market_cap": 32880058121.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "RPRX",
+      "last_price": 55.67,
+      "market_cap": 32056578797.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "EXPE",
+      "last_price": 266.28,
+      "market_cap": 31959478664.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CASY",
+      "last_price": 847.19,
+      "market_cap": 31350193092.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "STRC",
+      "last_price": 88.21,
+      "market_cap": 30913006789.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "KHC",
+      "last_price": 25.08,
+      "market_cap": 29739303161.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SMCIP",
+      "last_price": 48.9,
+      "market_cap": 29409363770.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AGNCN",
+      "last_price": 25.48,
+      "market_cap": 29249237851.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AGNCO",
+      "last_price": 25.345,
+      "market_cap": 29094267399.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AGNCZ",
+      "last_price": 25.22,
+      "market_cap": 28950776240.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ILMN",
+      "last_price": 191.2,
+      "market_cap": 28928560000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AGNCM",
+      "last_price": 25.12,
+      "market_cap": 28835983313.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TSEM",
+      "last_price": 255.49,
+      "market_cap": 28825644943.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AGNCP",
+      "last_price": 25.07,
+      "market_cap": 28778586849.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "DXCM",
+      "last_price": 74.12,
+      "market_cap": 28600905055.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AGNCL",
+      "last_price": 24.85,
+      "market_cap": 28526042409.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BIIB",
+      "last_price": 191.95,
+      "market_cap": 28338944608.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AFRM",
+      "last_price": 84.45,
+      "market_cap": 28282183814.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GEHC",
+      "last_price": 61.66,
+      "market_cap": 28048627525.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CINF",
+      "last_price": 180.03,
+      "market_cap": 27848254162.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MDB",
+      "last_price": 344.67,
+      "market_cap": 27722472279.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ECHO",
+      "last_price": 94.5,
+      "market_cap": 27387374616.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "WTW",
+      "last_price": 288.74,
+      "market_cap": 27270908590.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "OKTA",
+      "last_price": 154.62,
+      "market_cap": 26874094776.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MRNA",
+      "last_price": 67.44,
+      "market_cap": 26759265307.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ZM",
+      "last_price": 91.15,
+      "market_cap": 26728116671.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ASTS",
+      "last_price": 68.82,
+      "market_cap": 26710733045.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TCOM",
+      "last_price": 42.41,
+      "market_cap": 26705798465.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "JBHT",
+      "last_price": 280.87,
+      "market_cap": 26485817147.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FISV",
+      "last_price": 49.54,
+      "market_cap": 26417402466.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SYM",
+      "last_price": 43.66,
+      "market_cap": 26314179543.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LPLA",
+      "last_price": 321.35,
+      "market_cap": 25702492382.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CPRT",
+      "last_price": 27.52,
+      "market_cap": 25478331985.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FWONK",
+      "last_price": 100.87,
+      "market_cap": 25278597766.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ROIV",
+      "last_price": 34.91,
+      "market_cap": 25109729140.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VRSK",
+      "last_price": 190.54,
+      "market_cap": 24964901394.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TROW",
+      "last_price": 116.07,
+      "market_cap": 24869924958.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ZS",
+      "last_price": 152.09,
+      "market_cap": 24594401657.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VRSN",
+      "last_price": 268.85,
+      "market_cap": 24465350000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PFG",
+      "last_price": 112.92,
+      "market_cap": 24392118401.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FFIV",
+      "last_price": 431.26,
+      "market_cap": 24331364461.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MKSI",
+      "last_price": 358.43,
+      "market_cap": 24209842157.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "DLTR",
+      "last_price": 124.56,
+      "market_cap": 23937266681.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FCNCA",
+      "last_price": 2062.25,
+      "market_cap": 23895237132.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "INSM",
+      "last_price": 110.11,
+      "market_cap": 23866612380.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SOFI",
+      "last_price": 18.55,
+      "market_cap": 23794849260.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "WWD",
+      "last_price": 397.89,
+      "market_cap": 23707424563.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FSLR",
+      "last_price": 220.58,
+      "market_cap": 23702062811.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "RIVN",
+      "last_price": 17.5,
+      "market_cap": 23566686395.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CHRW",
+      "last_price": 199.61,
+      "market_cap": 23528637914.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TW",
+      "last_price": 98.83,
+      "market_cap": 23326451655.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "INIO",
+      "last_price": 30.81,
+      "market_cap": 23107500000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FWONA",
+      "last_price": 92.14,
+      "market_cap": 23090809935.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FOXA",
+      "last_price": 54.87,
+      "market_cap": 23055623104.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MTSI",
+      "last_price": 301.76,
+      "market_cap": 23023012762.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "INCY",
+      "last_price": 114.88,
+      "market_cap": 22948170090.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BNTX",
+      "last_price": 90.4,
+      "market_cap": 22719810736.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TEAM",
+      "last_price": 89.08,
+      "market_cap": 22605641147.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "UTHR",
+      "last_price": 526.66,
+      "market_cap": 22354996402.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BSP",
+      "last_price": 32.5,
+      "market_cap": 21890094200.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ENTG",
+      "last_price": 140.63,
+      "market_cap": 21446075000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "STRK",
+      "last_price": 60.99,
+      "market_cap": 21373815713.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GH",
+      "last_price": 160.11,
+      "market_cap": 21230574632.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "STRD",
+      "last_price": 60.46,
+      "market_cap": 21188078341.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FTAI",
+      "last_price": 206.22,
+      "market_cap": 21154660486.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "EXE",
+      "last_price": 87.81,
+      "market_cap": 21006685231.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ROKU",
+      "last_price": 141.76,
+      "market_cap": 20921449010.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "STRL",
+      "last_price": 679.62,
+      "market_cap": 20854788057.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FOX",
+      "last_price": 49.5,
+      "market_cap": 20799222593.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CTSH",
+      "last_price": 43.03,
+      "market_cap": 20390603251.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ULTA",
+      "last_price": 469.12,
+      "market_cap": 20167145576.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "EVRG",
+      "last_price": 86.45,
+      "market_cap": 19927851011.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SBAC",
+      "last_price": 187.25,
+      "market_cap": 19860299933.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LNT",
+      "last_price": 76.31,
+      "market_cap": 19709120693.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TLN",
+      "last_price": 396.95,
+      "market_cap": 19011783699.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VTRS",
+      "last_price": 16.31,
+      "market_cap": 18993853787.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SITM",
+      "last_price": 623.83,
+      "market_cap": 18687151418.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GMAB",
+      "last_price": 28.73,
+      "market_cap": 18455694618.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BPYPP",
+      "last_price": 15.8606,
+      "market_cap": 18446108001.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LSCC",
+      "last_price": 133.91,
+      "market_cap": 18346722131.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BPYPM",
+      "last_price": 15.77,
+      "market_cap": 18340738886.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AKAM",
+      "last_price": 126.11,
+      "market_cap": 18334559226.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "EWBC",
+      "last_price": 131.21,
+      "market_cap": 17975279537.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CDW",
+      "last_price": 139.38,
+      "market_cap": 17806276000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BPYPO",
+      "last_price": 15.29,
+      "market_cap": 17782491919.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CHTR",
+      "last_price": 127.91,
+      "market_cap": 17777512128.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ARXS",
+      "last_price": 43.0,
+      "market_cap": 17644393519.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AMKR",
+      "last_price": 70.2,
+      "market_cap": 17400650764.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "QNT",
+      "last_price": 66.63,
+      "market_cap": 17388480206.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NBIX",
+      "last_price": 172.04,
+      "market_cap": 17298619075.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NWS",
+      "last_price": 31.15,
+      "market_cap": 17052966574.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BDRX",
+      "last_price": 2.27,
+      "market_cap": 16936779124.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "KSPI",
+      "last_price": 89.19,
+      "market_cap": 16886651743.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PAA",
+      "last_price": 23.62,
+      "market_cap": 16664658352.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SMCI",
+      "last_price": 27.65,
+      "market_cap": 16629221027.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TPG",
+      "last_price": 43.15,
+      "market_cap": 16583077644.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ASND",
+      "last_price": 265.57,
+      "market_cap": 16459340243.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BBIO",
+      "last_price": 84.09,
+      "market_cap": 16457060661.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TIGO",
+      "last_price": 98.16,
+      "market_cap": 16445807775.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "RGLD",
+      "last_price": 193.51,
+      "market_cap": 16422536153.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CG",
+      "last_price": 45.48,
+      "market_cap": 16371636940.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BPYPN",
+      "last_price": 13.9,
+      "market_cap": 16165901745.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SSNC",
+      "last_price": 66.79,
+      "market_cap": 16085305465.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TSCO",
+      "last_price": 30.55,
+      "market_cap": 16021935769.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "HST",
+      "last_price": 23.38,
+      "market_cap": 16012477590.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GEN",
+      "last_price": 26.57,
+      "market_cap": 16006667501.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NDSN",
+      "last_price": 286.83,
+      "market_cap": 15981579025.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LAMR",
+      "last_price": 157.23,
+      "market_cap": 15954930130.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NXT",
+      "last_price": 104.66,
+      "market_cap": 15872030715.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GRAB",
+      "last_price": 3.8,
+      "market_cap": 15581830775.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "WSE",
+      "last_price": 12.55,
+      "market_cap": 15430266553.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VNOM",
+      "last_price": 43.0,
+      "market_cap": 15322366128.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MEDP",
+      "last_price": 536.17,
+      "market_cap": 15312848451.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NWSA",
+      "last_price": 27.6,
+      "market_cap": 15109530576.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NVMI",
+      "last_price": 473.54,
+      "market_cap": 15050508561.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NTNX",
+      "last_price": 55.47,
+      "market_cap": 14994678634.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "JAZZ",
+      "last_price": 238.05,
+      "market_cap": 14953736345.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TTMI",
+      "last_price": 141.97,
+      "market_cap": 14743592876.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "REG",
+      "last_price": 80.33,
+      "market_cap": 14708165141.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CHKP",
+      "last_price": 137.02,
+      "market_cap": 14468768716.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LOGI",
+      "last_price": 100.59,
+      "market_cap": 14438244495.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "WMG",
+      "last_price": 27.58,
+      "market_cap": 14386156262.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PTC",
+      "last_price": 122.51,
+      "market_cap": 14150614455.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VLYPN",
+      "last_price": 25.53,
+      "market_cap": 14146976633.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SLMBP",
+      "last_price": 74.68,
+      "market_cap": 14084124867.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "EXEL",
+      "last_price": 55.77,
+      "market_cap": 14018072979.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VLYPP",
+      "last_price": 25.01,
+      "market_cap": 13858828265.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LECO",
+      "last_price": 252.58,
+      "market_cap": 13838128244.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VLYPO",
+      "last_price": 24.91,
+      "market_cap": 13803415117.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "IREN",
+      "last_price": 38.59,
+      "market_cap": 13791243030.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FUTU",
+      "last_price": 98.13,
+      "market_cap": 13754649238.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BTSG",
+      "last_price": 69.67,
+      "market_cap": 13744837381.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ARCC",
+      "last_price": 18.79,
+      "market_cap": 13491649258.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "COO",
+      "last_price": 68.51,
+      "market_cap": 13361548461.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LI",
+      "last_price": 12.47,
+      "market_cap": 13321146122.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SMTC",
+      "last_price": 141.36,
+      "market_cap": 13167849108.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ICLR",
+      "last_price": 167.97,
+      "market_cap": 12861013580.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AGNC",
+      "last_price": 11.18,
+      "market_cap": 12833849261.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ALGN",
+      "last_price": 178.46,
+      "market_cap": 12780970944.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LULU",
+      "last_price": 117.32,
+      "market_cap": 12721941115.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "HTHT",
+      "last_price": 41.21,
+      "market_cap": 12673056581.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ENLT",
+      "last_price": 90.25,
+      "market_cap": 12584826415.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "DKNG",
+      "last_price": 25.21,
+      "market_cap": 12507407477.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TXRH",
+      "last_price": 189.09,
+      "market_cap": 12428812900.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GLPI",
+      "last_price": 43.84,
+      "market_cap": 12425169012.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ZBRA",
+      "last_price": 260.11,
+      "market_cap": 12389921593.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MDGL",
+      "last_price": 536.86,
+      "market_cap": 12377661091.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "IESC",
+      "last_price": 616.15,
+      "market_cap": 12276102975.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "APA",
+      "last_price": 34.53,
+      "market_cap": 12205326938.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AXSM",
+      "last_price": 235.26,
+      "market_cap": 12106424549.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VICR",
+      "last_price": 264.5,
+      "market_cap": 12056282152.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TRMB",
+      "last_price": 51.58,
+      "market_cap": 12023892150.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AUR",
+      "last_price": 6.13,
+      "market_cap": 12022174936.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SMMT",
+      "last_price": 15.47,
+      "market_cap": 12007236118.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "DRS",
+      "last_price": 44.37,
+      "market_cap": 11836233800.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "COKE",
+      "last_price": 177.15,
+      "market_cap": 11791864682.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ABVX",
+      "last_price": 134.91,
+      "market_cap": 11615013717.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AEIS",
+      "last_price": 305.2,
+      "market_cap": 11606956516.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SAIA",
+      "last_price": 432.73,
+      "market_cap": 11541434434.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SEIC",
+      "last_price": 94.89,
+      "market_cap": 11412702693.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "RMBS",
+      "last_price": 105.38,
+      "market_cap": 11395473582.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BMRN",
+      "last_price": 58.64,
+      "market_cap": 11334199444.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CSGP",
+      "last_price": 27.68,
+      "market_cap": 11303286191.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CART",
+      "last_price": 47.71,
+      "market_cap": 11213272426.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TECH",
+      "last_price": 71.23,
+      "market_cap": 11152392134.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SANM",
+      "last_price": 207.59,
+      "market_cap": 11126353809.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "HAS",
+      "last_price": 78.42,
+      "market_cap": 11095700067.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "HUT",
+      "last_price": 98.33,
+      "market_cap": 11071379033.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FROG",
+      "last_price": 91.17,
+      "market_cap": 11042485237.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PODD",
+      "last_price": 159.12,
+      "market_cap": 11021394927.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ERIE",
+      "last_price": 238.47,
+      "market_cap": 11015313237.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "WTFC",
+      "last_price": 162.36,
+      "market_cap": 10950817664.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BPOP",
+      "last_price": 169.0,
+      "market_cap": 10906872821.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "UMBF",
+      "last_price": 142.61,
+      "market_cap": 10835326257.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CGNX",
+      "last_price": 65.03,
+      "market_cap": 10822256899.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FIVE",
+      "last_price": 193.11,
+      "market_cap": 10678085232.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TEM",
+      "last_price": 58.67,
+      "market_cap": 10535064880.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LFUS",
+      "last_price": 416.31,
+      "market_cap": 10528023624.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SIMO",
+      "last_price": 308.41,
+      "market_cap": 10457515392.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AAL",
+      "last_price": 15.67,
+      "market_cap": 10363905097.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ZION",
+      "last_price": 70.42,
+      "market_cap": 10358205753.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "JKHY",
+      "last_price": 145.37,
+      "market_cap": 10328651889.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GSAT",
+      "last_price": 80.15,
+      "market_cap": 10322432820.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "DPZ",
+      "last_price": 309.85,
+      "market_cap": 10306190420.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SIRI",
+      "last_price": 30.39,
+      "market_cap": 10229879855.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PSKY",
+      "last_price": 9.12,
+      "market_cap": 10206858289.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CYTK",
+      "last_price": 81.93,
+      "market_cap": 10194760050.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ONB",
+      "last_price": 26.31,
+      "market_cap": 10165473630.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PAYP",
+      "last_price": 15.0,
+      "market_cap": 10157147025.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ARWR",
+      "last_price": 71.91,
+      "market_cap": 10129028380.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "APGE",
+      "last_price": 133.96,
+      "market_cap": 10099160675.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AAOI",
+      "last_price": 125.45,
+      "market_cap": 10066455120.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SOLS",
+      "last_price": 63.36,
+      "market_cap": 10061838737.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LINE",
+      "last_price": 44.0,
+      "market_cap": 10017672060.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "KRYS",
+      "last_price": 339.43,
+      "market_cap": 10006313579.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "WYNN",
+      "last_price": 95.9,
+      "market_cap": 9953147311.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "HSIC",
+      "last_price": 86.91,
+      "market_cap": 9900505351.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NUVL",
+      "last_price": 123.96,
+      "market_cap": 9792581543.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VIAV",
+      "last_price": 41.85,
+      "market_cap": 9789044360.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ALGM",
+      "last_price": 52.32,
+      "market_cap": 9747690228.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ENSG",
+      "last_price": 166.73,
+      "market_cap": 9744601542.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SFD",
+      "last_price": 24.69,
+      "market_cap": 9714953623.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CORT",
+      "last_price": 90.47,
+      "market_cap": 9712098709.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ONBPP",
+      "last_price": 25.04,
+      "market_cap": 9674779920.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ONBPO",
+      "last_price": 25.0,
+      "market_cap": 9659325000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "WULF",
+      "last_price": 19.41,
+      "market_cap": 9618288639.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LLYVK",
+      "last_price": 104.13,
+      "market_cap": 9580421192.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VSAT",
+      "last_price": 69.84,
+      "market_cap": 9537975678.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BSY",
+      "last_price": 31.15,
+      "market_cap": 9463266395.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GLXY",
+      "last_price": 24.22,
+      "market_cap": 9460582193.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "KTOS",
+      "last_price": 50.36,
+      "market_cap": 9443506394.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "DOCU",
+      "last_price": 49.38,
+      "market_cap": 9428844743.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MANH",
+      "last_price": 158.6,
+      "market_cap": 9383505877.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "COLB",
+      "last_price": 32.25,
+      "market_cap": 9336064304.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BRKR",
+      "last_price": 59.83,
+      "market_cap": 9272789884.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AAON",
+      "last_price": 112.93,
+      "market_cap": 9250289410.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LLYVA",
+      "last_price": 100.25,
+      "market_cap": 9223444007.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "KYMR",
+      "last_price": 112.08,
+      "market_cap": 9219430463.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FCFS",
+      "last_price": 210.06,
+      "market_cap": 9208334471.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PRAX",
+      "last_price": 327.68,
+      "market_cap": 9135316664.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FRHC",
+      "last_price": 148.91,
+      "market_cap": 9127078237.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "IONS",
+      "last_price": 54.93,
+      "market_cap": 9077872201.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FORM",
+      "last_price": 116.33,
+      "market_cap": 9068478627.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SNEX",
+      "last_price": 113.24,
+      "market_cap": 8974439407.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MTCH",
+      "last_price": 38.34,
+      "market_cap": 8943438607.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TTD",
+      "last_price": 18.94,
+      "market_cap": 8903852357.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "HALO",
+      "last_price": 75.05,
+      "market_cap": 8901905650.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CRNX",
+      "last_price": 83.71,
+      "market_cap": 8826399812.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SATA",
+      "last_price": 97.9225,
+      "market_cap": 8790926732.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "XP",
+      "last_price": 16.87,
+      "market_cap": 8743922411.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SYRE",
+      "last_price": 98.95,
+      "market_cap": 8701314399.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SAIL",
+      "last_price": 15.2,
+      "market_cap": 8621181554.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ALKS",
+      "last_price": 51.6,
+      "market_cap": 8600471641.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "POWL",
+      "last_price": 234.25,
+      "market_cap": 8534113778.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SWKS",
+      "last_price": 56.58,
+      "market_cap": 8509969387.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MBLY",
+      "last_price": 10.09,
+      "market_cap": 8497658163.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PTGX",
+      "last_price": 131.27,
+      "market_cap": 8442153934.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CBSH",
+      "last_price": 57.91,
+      "market_cap": 8441955220.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TPGXL",
+      "last_price": 23.09,
+      "market_cap": 8423827145.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BOKF",
+      "last_price": 138.45,
+      "market_cap": 8412368757.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TGTX",
+      "last_price": 54.89,
+      "market_cap": 8402757706.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "RGEN",
+      "last_price": 147.13,
+      "market_cap": 8299270786.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MXL",
+      "last_price": 92.59,
+      "market_cap": 8291060344.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "IBRX",
+      "last_price": 7.88,
+      "market_cap": 8253149339.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CHYM",
+      "last_price": 21.46,
+      "market_cap": 8176670723.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GGAL",
+      "last_price": 50.8,
+      "market_cap": 8159768948.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "APLD",
+      "last_price": 28.47,
+      "market_cap": 8135858775.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CIFR",
+      "last_price": 19.87,
+      "market_cap": 8127807544.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PCVX",
+      "last_price": 56.21,
+      "market_cap": 8116593705.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VLY",
+      "last_price": 14.58,
+      "market_cap": 8079236949.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TTEK",
+      "last_price": 31.11,
+      "market_cap": 8073813386.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "IMVT",
+      "last_price": 38.77,
+      "market_cap": 7959826712.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "HQY",
+      "last_price": 94.5,
+      "market_cap": 7900403837.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CELH",
+      "last_price": 30.14,
+      "market_cap": 7705000450.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "POOL",
+      "last_price": 210.07,
+      "market_cap": 7655581640.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TTAN",
+      "last_price": 80.09,
+      "market_cap": 7640392102.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "RIOT",
+      "last_price": 20.19,
+      "market_cap": 7628068839.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LGN",
+      "last_price": 69.8,
+      "market_cap": 7541047654.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "RYTM",
+      "last_price": 109.96,
+      "market_cap": 7535845466.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CBC",
+      "last_price": 30.92,
+      "market_cap": 7413631569.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MIRM",
+      "last_price": 120.89,
+      "market_cap": 7372020532.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FRVO",
+      "last_price": 25.02,
+      "market_cap": 7372017249.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VFS",
+      "last_price": 3.12,
+      "market_cap": 7299352351.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "Z",
+      "last_price": 31.86,
+      "market_cap": 7289625667.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BILI",
+      "last_price": 17.48,
+      "market_cap": 7282581350.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "QRVO",
+      "last_price": 82.51,
+      "market_cap": 7278679635.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ZG",
+      "last_price": 31.8,
+      "market_cap": 7275897558.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AVAV",
+      "last_price": 143.47,
+      "market_cap": 7260734064.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SLAB",
+      "last_price": 218.0,
+      "market_cap": 7190037414.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LSTR",
+      "last_price": 211.41,
+      "market_cap": 7172762876.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CORZZ",
+      "last_price": 22.345,
+      "market_cap": 7103146850.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SFM",
+      "last_price": 75.35,
+      "market_cap": 7086238080.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "AVT",
+      "last_price": 86.05,
+      "market_cap": 7058172170.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CORZ",
+      "last_price": 22.09,
+      "market_cap": 7022086100.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "DBX",
+      "last_price": 29.97,
+      "market_cap": 6992020451.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CAMT",
+      "last_price": 149.9,
+      "market_cap": 6977636189.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PLXS",
+      "last_price": 260.36,
+      "market_cap": 6966301772.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CRUS",
+      "last_price": 137.36,
+      "market_cap": 6930185344.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CHRD",
+      "last_price": 121.99,
+      "market_cap": 6867937334.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "IDCC",
+      "last_price": 265.485,
+      "market_cap": 6861467524.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LQDA",
+      "last_price": 76.49,
+      "market_cap": 6802110293.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ACGLO",
+      "last_price": 19.3,
+      "market_cap": 6743219048.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PPC",
+      "last_price": 28.22,
+      "market_cap": 6714157175.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "RRR",
+      "last_price": 64.0,
+      "market_cap": 6678492032.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LNTH",
+      "last_price": 102.37,
+      "market_cap": 6664909614.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FSV",
+      "last_price": 144.71,
+      "market_cap": 6654020634.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "FIGR",
+      "last_price": 29.96,
+      "market_cap": 6606653248.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PCTY",
+      "last_price": 123.13,
+      "market_cap": 6592879862.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CPB",
+      "last_price": 22.1,
+      "market_cap": 6590357970.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BZ",
+      "last_price": 14.23,
+      "market_cap": 6585725154.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "COGT",
+      "last_price": 38.51,
+      "market_cap": 6580126834.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NAVN",
+      "last_price": 25.8,
+      "market_cap": 6561746560.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ACMR",
+      "last_price": 98.895,
+      "market_cap": 6549308716.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MYRG",
+      "last_price": 419.04,
+      "market_cap": 6524886925.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CROX",
+      "last_price": 131.17,
+      "market_cap": 6517791128.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "XENE",
+      "last_price": 67.3,
+      "market_cap": 6505591515.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GLBE",
+      "last_price": 38.75,
+      "market_cap": 6493271160.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MORN",
+      "last_price": 170.48,
+      "market_cap": 6483016509.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PTCT",
+      "last_price": 78.06,
+      "market_cap": 6475025324.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CACC",
+      "last_price": 617.78,
+      "market_cap": 6462022662.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SRRK",
+      "last_price": 53.78,
+      "market_cap": 6444368018.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GDS",
+      "last_price": 32.07,
+      "market_cap": 6426110049.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ACT",
+      "last_price": 45.65,
+      "market_cap": 6372774009.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "UBSI",
+      "last_price": 46.19,
+      "market_cap": 6364916872.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LKQ",
+      "last_price": 24.86,
+      "market_cap": 6334100158.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CGON",
+      "last_price": 71.77,
+      "market_cap": 6330291487.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MAAS",
+      "last_price": 14.11,
+      "market_cap": 6239097406.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "XE",
+      "last_price": 15.33,
+      "market_cap": 6229592436.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MMYT",
+      "last_price": 55.75,
+      "market_cap": 6202880082.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "HWC",
+      "last_price": 76.02,
+      "market_cap": 6169628727.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "APPF",
+      "last_price": 174.46,
+      "market_cap": 6168649667.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CVLT",
+      "last_price": 148.63,
+      "market_cap": 6156505636.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "DSGX",
+      "last_price": 71.825,
+      "market_cap": 6154743649.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CWST",
+      "last_price": 96.46,
+      "market_cap": 6135814909.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SEZL",
+      "last_price": 182.39,
+      "market_cap": 6133231995.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VCTR",
+      "last_price": 97.7,
+      "market_cap": 6109289056.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MIDD",
+      "last_price": 134.59,
+      "market_cap": 6085419017.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CZR",
+      "last_price": 29.85,
+      "market_cap": 6079756361.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NICE",
+      "last_price": 102.28,
+      "market_cap": 6075798162.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ERAS",
+      "last_price": 19.5,
+      "market_cap": 6064198569.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LGND",
+      "last_price": 300.97,
+      "market_cap": 6031758129.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MRCY",
+      "last_price": 100.32,
+      "market_cap": 6023542151.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SSRM",
+      "last_price": 27.81,
+      "market_cap": 6021207925.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "URBN",
+      "last_price": 70.19,
+      "market_cap": 6010726476.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "PSMT",
+      "last_price": 194.56,
+      "market_cap": 6004223549.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "DUOL",
+      "last_price": 128.35,
+      "market_cap": 5980226567.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GTX",
+      "last_price": 31.68,
+      "market_cap": 5930131775.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ENPH",
+      "last_price": 44.985,
+      "market_cap": 5928942927.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LYFT",
+      "last_price": 15.61,
+      "market_cap": 5926844325.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CGABL",
+      "last_price": 16.335,
+      "market_cap": 5908449656.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "WFRD",
+      "last_price": 82.01,
+      "market_cap": 5898596477.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "RUSHA",
+      "last_price": 75.86,
+      "market_cap": 5895254395.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VSEC",
+      "last_price": 208.6,
+      "market_cap": 5852721907.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "RUSHB",
+      "last_price": 75.19,
+      "market_cap": 5843187160.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "MWH",
+      "last_price": 28.81,
+      "market_cap": 5831015306.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CHDN",
+      "last_price": 83.5,
+      "market_cap": 5819691818.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TXG",
+      "last_price": 45.79,
+      "market_cap": 5813323894.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "QLYS",
+      "last_price": 164.12,
+      "market_cap": 5791786430.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BLTE",
+      "last_price": 146.68,
+      "market_cap": 5770385333.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "SIGI",
+      "last_price": 96.34,
+      "market_cap": 5767829557.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NTSK",
+      "last_price": 14.27,
+      "market_cap": 5763990471.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "TWST",
+      "last_price": 92.53,
+      "market_cap": 5761964684.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "KLIC",
+      "last_price": 110.09,
+      "market_cap": 5761326429.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "OZK",
+      "last_price": 50.78,
+      "market_cap": 5745052783.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "BLLN",
+      "last_price": 124.87,
+      "market_cap": 5743456087.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CAR",
+      "last_price": 159.78,
+      "market_cap": 5644226263.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ACGLN",
+      "last_price": 16.14,
+      "market_cap": 5639147950.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "OTEX",
+      "last_price": 22.47,
+      "market_cap": 5631044399.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "DOX",
+      "last_price": 51.96,
+      "market_cap": 5609058046.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ACIW",
+      "last_price": 55.11,
+      "market_cap": 5602569123.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "LAUR",
+      "last_price": 39.83,
+      "market_cap": 5575335251.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "GTLB",
+      "last_price": 32.98,
+      "market_cap": 5570322000.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "DNTH",
+      "last_price": 101.28,
+      "market_cap": 5536596078.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NOVT",
+      "last_price": 146.62,
+      "market_cap": 5535808179.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "VRNS",
+      "last_price": 48.19,
+      "market_cap": 5532893889.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "REYN",
+      "last_price": 26.2,
+      "market_cap": 5522105277.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "ROAD",
+      "last_price": 97.35,
+      "market_cap": 5503657134.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "CELC",
+      "last_price": 111.05,
+      "market_cap": 5415496282.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    },
+    {
+      "ticker": "NXST",
+      "last_price": 175.56,
+      "market_cap": 5361420695.0,
+      "shares_outstanding": null,
+      "price_date": "2026-07-15",
+      "source_type": "primary",
+      "market_cap_source": "provided"
+    }
+  ]
+}

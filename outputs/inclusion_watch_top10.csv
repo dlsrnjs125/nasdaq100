@@ -1,0 +1,4 @@
+watch_rank,ticker,company_name,market_cap,market_cap_source,sector,eligibility_status,market_data_date,rationale,limitation
+1,NEWCO1,Company NEWCO1,500000000000,provided,Technology,eligible,2024-01-01,Nasdaq 상장 비금융 비구성 기업 중 공개 데이터 기준 시가총액 상위권,공식 Nasdaq 내부 순위 및 최종 재량은 반영되지 않음
+2,NEWCO2,Company NEWCO2,400000000000,provided,Healthcare,eligible,2024-01-01,Nasdaq 상장 비금융 비구성 기업 중 공개 데이터 기준 시가총액 상위권,공식 Nasdaq 내부 순위 및 최종 재량은 반영되지 않음
+3,NEWCO3,Company NEWCO3,300000000000,provided,Industrials,eligible,2024-01-01,Nasdaq 상장 비금융 비구성 기업 중 공개 데이터 기준 시가총액 상위권,공식 Nasdaq 내부 순위 및 최종 재량은 반영되지 않음

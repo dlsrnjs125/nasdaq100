@@ -1,0 +1,21 @@
+{
+  "collected_at": "2026-07-15T01:56:41.361012+00:00",
+  "official_sources_used": [
+    "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+    "https://api.nasdaq.com/api/screener/stocks",
+    "https://www.sec.gov/files/company_tickers.json",
+    "https://data.sec.gov/submissions/",
+    "https://data.sec.gov/api/xbrl/companyfacts/"
+  ],
+  "secondary_sources_used": [],
+  "total_universe_count": 500,
+  "constituent_count": 103,
+  "non_constituent_count": 397,
+  "sec_matched_count": 500,
+  "market_data_matched_count": 500,
+  "missing_sector_count": 3,
+  "missing_market_cap_count": 0,
+  "unknown_eligibility_count": 3,
+  "failed_tickers": [],
+  "source_warnings": []
+}

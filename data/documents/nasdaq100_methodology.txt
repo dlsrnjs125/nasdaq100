@@ -1,0 +1,81 @@
+DOCUMENT_ID: nasdaq100_methodology_overview
+TITLE: Nasdaq-100 Index Methodology Overview
+SOURCE_TYPE: nasdaq_official
+SOURCE_URL: https://indexes.nasdaqomx.com/docs/methodology_NDX.pdf
+PUBLISHED_AT: 2024-01-01
+LANGUAGE: en
+
+=== SECTION: Overview and Objective ===
+
+The Nasdaq-100 Index (ticker: NDX) is a modified market-capitalization-weighted index comprising 100 of the largest non-financial domestic and international securities listed on The Nasdaq Stock Market based on market capitalization.
+
+The Index reflects companies across major industry groups including technology, retail, industrial, health care, technology, and others. It does not contain securities of financial companies including investment companies.
+
+The Nasdaq-100 Index was first published on January 31, 1985.
+
+=== SECTION: Eligibility Criteria ===
+
+To be eligible for inclusion in the Nasdaq-100 Index, a security must meet ALL of the following criteria:
+
+1. LISTING: The security's U.S. listing must be exclusively on The Nasdaq Global Select Market or The Nasdaq Global Market (unless the security was dually listed on another U.S. exchange prior to January 1, 2004, and has continuously maintained such listing).
+
+2. SECURITY TYPE: Only common stocks, ordinary shares, American Depositary Receipts (ADRs), and tracking stocks are eligible. Closed-end funds, convertible debentures, exchange-traded funds, preferred stocks, rights, warrants, units, and other derivative securities are not eligible.
+
+3. FINANCIAL SECTOR EXCLUSION: Securities issued by Financial Companies are not eligible. A Financial Company is a company whose primary Standard Industrial Classification (SIC) code is within the Finance, Insurance, or Real Estate industries.
+
+4. MARKET CAPITALIZATION: The security must have a minimum market capitalization. The minimum market capitalization is reassessed during each annual reconstitution. At each annual reconstitution, the minimum market capitalization threshold is established based on the market capitalization of the 100th largest security within the Index universe.
+
+5. TRADING VOLUME: The security must have a minimum average daily trading volume of 200,000 shares over the three calendar months prior to evaluation. If the security is a new issue, it must have a minimum average daily trading volume of 200,000 shares over the two calendar months prior to evaluation.
+
+6. LISTING AGE: The security must have been listed on a major exchange for a minimum of three calendar months (one calendar month for new issues).
+
+7. FINANCIAL DATA: The security must have audited annual financial results available for the fiscal year that ended prior to the evaluation.
+
+8. NO BANKRUPTCY: The issuer is not in proceedings under any applicable bankruptcy law.
+
+=== SECTION: Quarterly Rebalance and Annual Reconstitution ===
+
+The Nasdaq-100 Index is reviewed quarterly (March, June, September, and December) to confirm current components still meet eligibility requirements.
+
+Annual Reconstitution occurs each December. During the annual reconstitution:
+- All securities are ranked by market capitalization.
+- A security ranked in the top 75 (measured by market capitalization) at the time of annual reconstitution is added if not currently in the Index.
+- A security currently in the Index that ranks outside the top 100 at the time of annual reconstitution is removed.
+- A security ranked between 76 and 100 and currently in the Index remains in the Index.
+- A security ranked between 101 and 125 at the time of annual reconstitution may remain in the Index if it currently ranks in the top 100.
+
+=== SECTION: Reconstitution and Rebalancing Mechanics ===
+
+INCLUSION (편입) TRIGGERS:
+- A new security enters the eligible universe and ranks in the top 75 by market cap at annual reconstitution.
+- An existing Index security that was removed due to ineligibility becomes eligible again.
+
+EXCLUSION (편출) TRIGGERS:
+- A currently included security is acquired, delisted, or declared bankrupt.
+- A security's market capitalization falls outside the top 125 during an annual reconstitution.
+- A security becomes a Financial Company.
+- A security no longer exclusively lists on Nasdaq.
+- A security no longer meets the minimum trading volume requirement.
+
+SPECIAL RULES:
+- If a non-Index security would be added as the result of a corporate action (e.g., spin-off), the addition requires only a one-month listing requirement.
+- If two securities have identical market capitalizations during ranking, the security with the higher 3-month average daily trading volume is ranked higher.
+
+=== SECTION: Weighting Methodology ===
+
+The Index employs a modified market-capitalization weighting methodology. No single security may exceed 24% of the aggregate Index weight; the aggregate weight of all securities with weights above 4.5% may not exceed 48.0% of the aggregate Index weight.
+
+Weighting adjustments are made quarterly after the close on the third Friday of March, June, September, and December.
+
+=== SECTION: Corporate Actions ===
+
+When a component company undertakes a corporate action such as a merger, acquisition, spin-off, or name change:
+- Mergers/Acquisitions: If an Index security is acquired, it is removed from the Index upon completion of the acquisition. The acquiring entity may be considered for inclusion if it meets eligibility criteria.
+- Spin-offs: Spin-off securities may be added to the Index if they meet eligibility criteria at the time of spin-off with a one-month listing requirement waiver.
+- Special Cash Dividends: The Index is adjusted for special cash dividends on the ex-date of the dividend.
+
+=== SECTION: Index Governance ===
+
+The Index is governed by Nasdaq, Inc. The Index Oversight Committee makes decisions regarding Index eligibility and reconstitution. The Committee may exercise discretion to add or remove securities from the Index based on factors beyond the quantitative eligibility criteria, including but not limited to: significant market disruptions, regulatory actions, and extraordinary corporate events.
+
+Nasdaq publishes the Index methodology and any methodology changes on its website.
