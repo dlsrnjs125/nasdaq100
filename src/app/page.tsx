@@ -5,7 +5,6 @@ import { useCallback, useEffect, useState } from "react";
 import { ChatPanel } from "@/components/ChatPanel";
 import { NewsList } from "@/components/NewsList";
 import { StockChart } from "@/components/StockChart";
-import { StockOverview } from "@/components/StockOverview";
 import { StockSearch } from "@/components/StockSearch";
 import type { DataSource, MarketResponse, NewsArticle, NewsResponse, PricePoint, PriceRange, StockQuote } from "@/lib/types";
 
@@ -84,29 +83,107 @@ export default function Home() {
   }
 
   return (
-    <main className="min-h-screen bg-slate-900 text-slate-100">
-      <StockSearch value={symbol} loading={loadingMarket || loadingNews} onSubmit={handleSubmit} />
-      <div className="mx-auto grid max-w-7xl gap-5 px-4 py-5 lg:grid-cols-[minmax(0,1fr)_400px] lg:px-8">
-        <div className="space-y-5">
+    <div className="min-h-screen bg-[#f8f9ff] text-[#121c2a]">
+      <aside className="fixed left-0 top-0 z-50 hidden h-screen w-64 flex-col border-r border-[#bfc9c3] bg-[#e6eeff] px-4 py-8 md:flex">
+        <div className="mb-10 px-2">
+          <h1 className="text-2xl font-black text-[#003527]">터미널 알파</h1>
+          <p className="text-xs font-bold tracking-wide text-[#404944]">인증 소스 모드</p>
+        </div>
+        <nav className="flex-1 space-y-2">
+          {[
+            ["account_tree", "파이프라인"],
+            ["monitoring", "시장 데이터"]
+          ].map(([icon, label]) => (
+            <button
+              key={label}
+              type="button"
+              disabled
+              className="flex w-full items-center gap-3 rounded-lg px-4 py-3 text-left text-sm font-semibold text-[#404944] opacity-80"
+            >
+              <span className="material-symbols-outlined">{icon}</span>
+              {label}
+            </button>
+          ))}
+          <div className="flex scale-95 items-center gap-3 rounded-lg border-r-4 border-[#003527] bg-[#dde1d5] px-4 py-3 text-sm font-bold text-[#003527]">
+            <span className="material-symbols-outlined">analytics</span>
+            분석 도구
+          </div>
+        </nav>
+        <div className="mt-auto space-y-2 border-t border-[#bfc9c3] pt-6">
+          <button type="button" disabled className="mb-6 w-full rounded-xl bg-[#003527] py-3 text-sm font-bold text-white">
+            새 분석 시작
+          </button>
+          <div className="flex items-center gap-3 px-4 py-2 text-sm font-semibold text-[#404944]">
+            <span className="material-symbols-outlined">help</span>
+            고객 지원
+          </div>
+          <div className="flex items-center gap-3 px-4 py-2 text-sm font-semibold text-[#404944]">
+            <span className="material-symbols-outlined">logout</span>
+            로그아웃
+          </div>
+        </div>
+      </aside>
+
+      <div className="flex min-h-screen flex-col md:ml-64">
+        <header className="flex h-16 items-center justify-between border-b border-[#bfc9c3] bg-[#f8f9ff] px-4 md:px-10">
+          <div className="flex items-center gap-4">
+            <span className="text-2xl font-bold text-[#003527]">NASDAQ Pulse</span>
+            <StockSearch value={symbol} loading={loadingMarket || loadingNews} onSubmit={handleSubmit} />
+          </div>
+          <div className="flex items-center gap-4 text-[#404944]">
+            <button type="button" disabled className="hidden p-2 md:block">
+              <span className="material-symbols-outlined">notifications</span>
+            </button>
+            <button type="button" disabled className="hidden p-2 md:block">
+              <span className="material-symbols-outlined">settings</span>
+            </button>
+            <div className="flex h-8 w-8 items-center justify-center overflow-hidden rounded-full border border-[#bfc9c3] bg-[#d9e3f6] text-sm font-black text-[#003527]">
+              HI
+            </div>
+          </div>
+        </header>
+
+        <main className="mx-auto grid w-full max-w-[1440px] flex-1 grid-cols-1 gap-6 px-4 py-6 lg:grid-cols-12 lg:px-10 lg:py-10">
+          <div className="flex flex-col gap-8 lg:col-span-8">
           {(message || error) && (
             <div
-              className={`rounded-md border px-4 py-3 text-sm ${
+              className={`rounded-xl border px-4 py-3 text-sm ${
                 error
-                  ? "border-red-900 bg-red-950/50 text-red-200"
+                  ? "border-[#ffdad6] bg-[#ffdad6] text-[#93000a]"
                   : marketSource === "fallback" || newsSource === "fallback"
-                    ? "border-amber-900 bg-amber-950/50 text-amber-200"
-                    : "border-slate-800 bg-slate-800 text-slate-300"
+                    ? "border-[#dde1d5] bg-[#e6eeff] text-[#404944]"
+                    : "border-[#bfc9c3] bg-white text-[#404944]"
               }`}
             >
               {error || message}
             </div>
           )}
-          <StockOverview quote={quote} source={marketSource} />
-          <StockChart data={history} range={range} loading={loadingMarket} onRangeChange={setRange} />
+          <StockChart
+            data={history}
+            range={range}
+            loading={loadingMarket}
+            onRangeChange={setRange}
+            quote={quote}
+            source={marketSource}
+          />
           <NewsList articles={news} source={newsSource} loading={loadingNews} />
         </div>
-        <ChatPanel symbol={symbol} quote={quote} history={history} news={news} />
+          <div className="lg:col-span-4">
+            <ChatPanel symbol={symbol} quote={quote} history={history} news={news} />
+          </div>
+        </main>
+
+        <footer className="border-t border-[#bfc9c3] bg-[#eff4ff] px-4 py-8 md:px-10">
+          <div className="mx-auto flex max-w-[1440px] flex-col items-center justify-between gap-4 text-xs font-bold text-[#404944] md:flex-row">
+            <p>© 2024 NASDAQ Pulse Terminal. 모든 데이터는 실시간으로 검증됩니다.</p>
+            <div className="flex items-center gap-6">
+              <span>개인정보처리방침</span>
+              <span>데이터 신뢰 규정</span>
+              <span>문의하기</span>
+            </div>
+          </div>
+        </footer>
       </div>
-    </main>
+    </div>
   );
 }
